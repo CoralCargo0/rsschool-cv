@@ -22,3 +22,8 @@ Kotlin/C
 Belarusian State University of Informatics and Radioelectronics,
 Computers, Systems and Networks.
 [Hyperskill.org]https://hyperskill.org/profile/84078108
+
+## Language
+English(B1)
+Russian(Native)
+
